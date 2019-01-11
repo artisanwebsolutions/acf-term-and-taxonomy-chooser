@@ -1,4 +1,7 @@
 {
     "name": "artisanwebsolutions/acf-term-and-taxonomy-chooser",
-    "description": "Used with ACF (for WordPress) to select a term or an entire taxonomy from a list of multiple allowed taxonomies."
+    "description": "Used with ACF (for WordPress) to select a term or an entire taxonomy from a list of multiple allowed taxonomies.",
+    "require": {
+        "php": ">=5.6"
+    }
 }
